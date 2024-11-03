@@ -1,24 +1,24 @@
 {
   "expo": {
-    "name": "new-mp3-player",
-    "slug": "new-mp3-player",
+    "name": "မင်္ဂလာဓမ္မတရားတော်များ",
+    "slug": "MingalarDhammaTayartawMyar",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/Buddha_icon_1(1).png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/Buddha_icon_4.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFFF"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/Buddha_icon_1(1).png",
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
